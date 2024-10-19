@@ -35,11 +35,11 @@ def translate_now():
 
 
 #Application Icon
-image_icon=PhotoImage(file="googletranslateicon.png")
+image_icon=PhotoImage(file="assets/images/googletranslateicon.png")
 root.iconphoto(False,image_icon)
 
 #Arrow Icon
-arrow_image=PhotoImage(file="arrowexchangeicon.png")
+arrow_image=PhotoImage(file="assets/images/arrowexchangeicon.png")
 image_label=Label(root,image=arrow_image,width=150)
 image_label.place(x=460,y=50)
 
