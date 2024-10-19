@@ -1,1 +1,1 @@
-# [Google Translate App] (https://code-lau.github.io/PythonTranslatorApp)
+# [Google Translate App](https://code-lau.github.io/PythonTranslatorApp)
